@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./output.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <title>Profolio - Joaquin Casasola</title>
+</head>
+<body>
+    <div class="barra-lateral">
+        <div class="header-lateral">
+            <ion-icon id="cube" name="cube"></ion-icon>
+            <span>Menu<strong>_</strong></span>
+        </div>
+        <nav class="navegacion">
+            <ul>
+                <li>
+                    <a href="#sobre-mi">
+                        <ion-icon name="person-circle-outline"></ion-icon>
+                        <span>Sobre mi</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#proyectos">
+                        <ion-icon name="folder-open-outline"></ion-icon>
+                        <span>Proyectos</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#habilidades">
+                        <ion-icon name="code-slash-outline"></ion-icon>
+                        <span>Habilidades</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="linea"></div>
+        <div class="mod-oscuro">
+            <div class="info">
+                <ion-icon class="moon" name="sunny-outline"></ion-icon>
+                <span class="modo-texto" >Mod Claro</span>
+            </div>
+            <div class="switch">
+                <div class="base">
+                    <div class="circulo"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content">
+        <header>
+            <div class="titulo">
+                <ion-icon id="cube" name="cube"></ion-icon>
+                <span>Porfolio<strong>_</strong></span>
+            </div>
+        </header>
+        <section class="presentacion">
+            <div class="titulo">
+                <h2>Hola, Soy Joaquín Casasola</h2>
+                <p>Desarrollador Full Stack</p>
+                <div class="imagen">
+                    <img src="./assets/FotoWeb2.png" alt="">
+                </div>
+                <div class="links ">
+                    <a href="../assets/CV_CasasolaJoaquin (1).pdf" download="CV_CasasolaJoaquin (1).pdf" ><button class="btn-animado cv">Descargar CV 
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button></a>
+                    <a href="https://www.linkedin.com/in/joaquincasasola/" target="_blank">
+                        <button  class="btn-animado linkedin">LinkedIn
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </a>
+                    <a href="https://github.com/JoacoCasasola" target="_blank"><button class="btn-animado github">GitHub
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button></a>
+                </div>
+            </div>
+        </section>
+        <section class="sobre-mi" id="sobre-mi">
+            <div class="content">
+                <h2>Sobre mi</h2>
+                <p>Hola! Soy Joaquín , estudiante de programación en el último año de la Tecnicatura en la <strong>UTN</strong>. Estoy emocionado por dar el salto al mundo laboral y aplicar mis habilidades en entornos reales.
+                    Aunque aún no tengo experiencia laboral formal, he participado activamente en proyectos académicos donde he demostrado mi capacidad para <strong>colaborar en equipo</strong> y encontrar <strong>soluciones creativas</strong> a diversos desafíos.
+                    Estoy entusiasmado por iniciar mi carrera profesional en la programación. <strong>Mi objetivo</strong> es crecer profesionalmente y enfrentar nuevos desafíos en un campo tan dinámico como el de la tecnología.</p>
+            </div>
+        </section>
+        <section class="proyectos container mx-auto px-5" id="proyectos">
+            <div class="titulo">
+                <h2>Proyectos</h2>
+            </div>
+            <div class="cards relative grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 rounded-xl"></div>
+        </section>
+        <section class="habilidades" id="habilidades">
+            <div>
+                <h2>Habilidades</h2>
+                <div class="lenguajes">
+                    <div class="back">
+                        <h3>Back-end</h3>
+                        <img class="PY" src="./assets/python-svgrepo-com.svg" alt="">
+                        <img class="C" src="./assets/c-sharp-svgrepo-com.svg" alt="">
+                        <img class="PHP" src="./assets/php-svgrepo-com.svg" alt="">
+                        <img class="ND" src="./assets/node-js-svgrepo-com.svg" alt="">
+                        <img class="SQL" src="./assets/mysql-logo-svgrepo-com.svg" alt="">
+                    </div>
+                    <div class="front">
+                        <h3>Front-end</h3>
+                        <img class="HT" src="./assets/html5-svgrepo-com.svg" alt="">
+                        <img class="CS" src="./assets/css-svgrepo-com.svg" alt="">
+                        <img class="JS" src="./assets/js-svgrepo-com.svg" alt="">
+                        <img class="TA" src="./assets/tailwind-svgrepo-com.svg" alt="">
+                        <img class="BO" src="./assets/bootstrap-svgrepo-com.svg" alt="">
+                    </div>
+                </div>
+                <div class="programs">
+                    <h3>Programas</h3>
+                    <div class="editores">
+                        <img class="VSC" src="./assets/visual-studio-code-1.svg" alt="">
+                        <img class="VS" src="./assets/Visual_Studio_Icon_2022.svg" alt="">
+                        <img class="GH" src="./assets/icons8-github.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    <div class="barra-inferior">
+        <nav class="navegacion">
+            <ul>
+                <li>
+                    <a href="#sobre-mi">
+                        <ion-icon name="person-circle-outline"></ion-icon>
+                    </a>
+                </li>
+                <li>
+                    <a href="#proyectos">
+                        <ion-icon name="folder-open-outline"></ion-icon>
+                    </a>
+                </li>
+                <li>
+                    <a href="#habilidades">
+                        <ion-icon name="code-slash-outline"></ion-icon>
+                    </a>
+                </li>
+                <li>
+                    <a class="moon-inferior">
+                        <ion-icon name="sunny-outline"></ion-icon>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <footer>
+        <p>CasasolaJoaquin<date id="year"></date>&copy;</p>
+    </footer>
+    
+    <script src="./script.js" ></script>
+</body>
+</html>
