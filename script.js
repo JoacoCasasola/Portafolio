@@ -78,9 +78,27 @@ document.addEventListener('DOMContentLoaded', function () {
             descripcion: "Recomendador de playlists en base a tu estado de animo y tareas que estes realizando.",
             imagen: "./assets/Captura de pantalla (83).png",
             video: "./assets/Timeline 2.mov",
-            tecnologias: ["HTML", "CSS", "javaScript", "Node_js"],
+            tecnologias: ["HTML", "CSS", "javaScript", "Tailwind"],
             link1: "https://voluble-nougat-4ec8ac.netlify.app/",
             link2: "https://github.com/JoacoCasasola/AppMusicRecomender.git"
+        },
+        {
+            titulo: "Rick & Morty",
+            descripcion: "Web de practica usando React y tomando datos de API, mostrando personajes de Rick & Morty.",
+            imagen: "./assets/Captura de pantalla (85).png",
+            video: "./assets/videoRick.mov",
+            tecnologias: ["HTML", "CSS", "javaScript","React"],
+            link1: "https://664fe5ac98cedba25f339973--delicate-tiramisu-85edfb.netlify.app/",
+            link2: "https://github.com/JoacoCasasola/Ryck-Morty_Api.git"
+        },
+        {
+            titulo: "Web Inmobiliaria",
+            descripcion: "Web de practica usando html, css y javaScript.",
+            imagen: "./assets/Captura de pantalla (86).png",
+            video: "./assets/videoInmobiliaria.mov",
+            tecnologias: ["HTML", "CSS", "javaScript", "Tailwind"],
+            link1: "https://667f024bca7a2b802e9621d9--meek-parfait-dbc518.netlify.app/",
+            link2: "https://github.com/JoacoCasasola/TP_LaboIII.git"
         },
         {
             titulo: "Web Clima",
@@ -91,14 +109,15 @@ document.addEventListener('DOMContentLoaded', function () {
             link1: "https://6673335c803efa7e86dbf28b--ornate-axolotl-c4f347.netlify.app/",
             link2: "https://github.com/JoacoCasasola/AppClima.git"
         },
+        
         {
-            titulo: "Rick & Morty",
-            descripcion: "Web de practica usando React y tomando datos de API, mostrando personajes de Rick & Morty.",
-            imagen: "./assets/Captura de pantalla (85).png",
-            video: "./assets/videoRick.mov",
-            tecnologias: ["HTML", "CSS", "javaScript","React"],
-            link1: "https://664fe5ac98cedba25f339973--delicate-tiramisu-85edfb.netlify.app/",
-            link2: "https://github.com/JoacoCasasola/Ryck-Morty_Api.git"
+            titulo: "CRUD de Prectica",
+            descripcion: "Listado de planetas practicando CRUD y manipulacion de Local Storage, utilizando html, css y javaScript.",
+            imagen: "./assets/Captura de pantalla (87).png",
+            video: "./assets/videoPlanetas.mov",
+            tecnologias: ["HTML", "CSS", "javaScript"],
+            link1: "https://667c80caf102c1038bc4e1f3--unique-brioche-efe3ad.netlify.app/",
+            link2: "https://github.com/JoacoCasasola/Parcial1_Labo3.git"
         },
     ]
 
