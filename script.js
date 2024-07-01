@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function () {
             imagen: "./assets/Captura de pantalla (85).png",
             video: "./assets/videoRick.mov",
             tecnologias: ["HTML", "CSS", "javaScript","React"],
-            link1: "https://664fe5ac98cedba25f339973--delicate-tiramisu-85edfb.netlify.app/",
+            link1: "https://delicate-tiramisu-85edfb.netlify.app/",
             link2: "https://github.com/JoacoCasasola/Ryck-Morty_Api.git"
         },
         {
@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {
             imagen: "./assets/Captura de pantalla (86).png",
             video: "./assets/videoInmobiliaria.mov",
             tecnologias: ["HTML", "CSS", "javaScript", "Tailwind"],
-            link1: "https://667f024bca7a2b802e9621d9--meek-parfait-dbc518.netlify.app/",
+            link1: "https://meek-parfait-dbc518.netlify.app/",
             link2: "https://github.com/JoacoCasasola/TP_LaboIII.git"
         },
         {
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function () {
             imagen: "./assets/Captura de pantalla (84).png",
             video: "./assets/videoClima.mov",
             tecnologias: ["HTML", "CSS", "javaScript"],
-            link1: "https://6673335c803efa7e86dbf28b--ornate-axolotl-c4f347.netlify.app/",
+            link1: "https://ornate-axolotl-c4f347.netlify.app/",
             link2: "https://github.com/JoacoCasasola/AppClima.git"
         },
         
@@ -116,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function () {
             imagen: "./assets/Captura de pantalla (87).png",
             video: "./assets/videoPlanetas.mov",
             tecnologias: ["HTML", "CSS", "javaScript"],
-            link1: "https://667c80caf102c1038bc4e1f3--unique-brioche-efe3ad.netlify.app/",
+            link1: "https://unique-brioche-efe3ad.netlify.app/",
             link2: "https://github.com/JoacoCasasola/Parcial1_Labo3.git"
         },
     ]
