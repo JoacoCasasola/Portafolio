@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
         
         {
-            titulo: "CRUD de Prectica",
+            titulo: "CRUD de Practica",
             descripcion: "Listado de planetas practicando CRUD y manipulacion de Local Storage, utilizando html, css y javaScript.",
             imagen: "./assets/Captura de pantalla (87).png",
             video: "./assets/videoPlanetas.mov",
