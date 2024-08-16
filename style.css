@@ -7,6 +7,7 @@
     --back3: rgb(48, 41, 54);
     --violet: rgb(158, 108, 209);
     --violet1: rgb(97, 60, 134);
+    --transparent: .55;
 }
 
 .darck-mode {
@@ -16,6 +17,7 @@
     --back3: rgb(143, 127, 156);
     --violet: rgb(96, 50, 147);
     --violet1: rgb(152, 111, 193);
+    --transparent: .87;
 }
 
 * {
@@ -282,6 +284,7 @@ header span {
     margin-top: 40px;
     filter: drop-shadow(0 -3px 5px var(--back3));
     mask-image: linear-gradient(var(--back) 60%, transparent);
+    opacity: var(--transparent);
 }
 
 .presentacion .titulo .links {
