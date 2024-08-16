@@ -280,7 +280,7 @@ header span {
     max-width: 220px;
     height: auto;
     margin-top: 40px;
-    filter: drop-shadow(0 -3px 5px var(--content));
+    filter: drop-shadow(0 -3px 5px var(--back3));
     mask-image: linear-gradient(var(--back) 60%, transparent);
 }
 

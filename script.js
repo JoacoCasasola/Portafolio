@@ -101,16 +101,6 @@ document.addEventListener('DOMContentLoaded', function () {
             link2: "https://github.com/JoacoCasasola/TP_LaboIII.git"
         },
         {
-            titulo: "Web Clima",
-            descripcion: "Web para saber el tiempo, obteniendo datos de una API.",
-            imagen: "./assets/Captura de pantalla (84).png",
-            video: "./assets/videoClima.mov",
-            tecnologias: ["HTML", "CSS", "javaScript"],
-            link1: "https://ornate-axolotl-c4f347.netlify.app/",
-            link2: "https://github.com/JoacoCasasola/AppClima.git"
-        },
-        
-        {
             titulo: "CRUD de Practica",
             descripcion: "Listado de planetas practicando CRUD y manipulacion de Local Storage, utilizando html, css y javaScript.",
             imagen: "./assets/Captura de pantalla (87).png",
