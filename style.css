@@ -7,7 +7,7 @@
     --back3: rgb(48, 41, 54);
     --violet: rgb(158, 108, 209);
     --violet1: rgb(97, 60, 134);
-    --transparent: .55;
+    --transparent: .6;
 }
 
 .darck-mode {
@@ -17,7 +17,7 @@
     --back3: rgb(143, 127, 156);
     --violet: rgb(96, 50, 147);
     --violet1: rgb(152, 111, 193);
-    --transparent: .87;
+    --transparent: .9;
 }
 
 * {
@@ -610,6 +610,7 @@ header span {
     display: flex;
     justify-content: center;
     margin-bottom: 30px;
+    margin-top: 40px;
     color: var(--violet);
     font-size: 40px;
 }
@@ -719,10 +720,22 @@ footer {
         font-size: 22px;
     }
     .sobre-mi {
-        max-height: 120vh;
+        max-height: 75vh;
+    }
+    .sobre-mi .content h2{
+        font-size: 35px;
+    }
+    .sobre-mi .content p{
+        font-size: 15px;
+    }
+    .habilidades h2{
+        margin-top: 50px;
     }
     .proyectos .cards .card .botones {
         margin-top: 15px;
+    }
+    .proyectos .titulo{
+        margin-top: 25px;
     }
 }
 
