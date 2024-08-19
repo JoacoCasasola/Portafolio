@@ -24,4 +24,4 @@ Welcome to my portfolio. I am Joaquín Casasola, a Full Stack developer looking 
 
 ## ✍️ Authors 
 
-- ***[Joaquín Casasola](https://github.com/tu-usuario)*** - FullStack / Frontend Developer
+- ***[Joaquín Casasola](https://github.com/JoacoCasasola)*** - FullStack / Frontend Developer
