@@ -1,27 +1,27 @@
-# 💼 Mi Portfolio
-Bienvenid@ a mi portfolio. Soy Joaquín Casasola, un desarrollador Full Stack en busca de nuevas oportunidades y desafíos. Este sitio web muestra una selección de mis proyectos, habilidades y una breve introducción sobre mí.
+# 💼 My Portfolio
+Welcome to my portfolio. I am Joaquín Casasola, a Full Stack developer looking for new opportunities and challenges. This website shows a selection of my projects, skills and a short introduction about me.
 
-## Estructura del Proyecto
-- **Sobre mí**: Información sobre mi formación y objetivos profesionales.
-- **Proyectos**: Muestra una serie de proyectos en los que he trabajado, con descripciones, tecnologías usadas y enlaces para verlos en vivo o en GitHub.
-- **Habilidades**: Detalla las tecnologías y herramientas que manejo, tanto para el desarrollo front-end como back-end.
+## Project Structure
+- ***About me***: Information about my training and professional objectives.
+- ***Projects***: Shows a series of projects I have worked on, with descriptions, technologies used and links to see them live or on GitHub.
+- ***Skills***: Details the technologies and tools I use, both for front-end and back-end development.
 
-## ✨ Características
-- ### **Interfaz de Usuario Dinámica**
-   - **Barra Lateral**: Navega fácilmente entre secciones usando la barra lateral que se puede ocultar o mostrar con un clic.
-   - **Modo Oscuro/Claro**: Alterna entre el modo oscuro y claro con un interruptor, guardando la preferencia del usuario en el `localStorage` para una experiencia persistente.
-   - **Diseño Responsivo**: El sitio web está diseñado para adaptarse a diferentes tamaños de pantalla, desde dispositivos móviles hasta monitores de escritorio.
+## ✨ Features
+- ### ***Dynamic User Interface***
+   - ***Sidebar***: Easily navigate between sections using the sidebar that can be hidden or shown with one click.
+   - ***Dark/Light Mode**: Toggle between dark and light mode with a switch, saving the user's preference to the `localStorage` for a persistent experience.
+   - ***Responsive Design***: The website is designed to adapt to different screen sizes, from mobile devices to desktop monitors.
 
-- ### **Gestión de Estado**
-   - **Persistencia de Preferencias**: Implementa el uso de `localStorage` para mantener la preferencia del usuario sobre el modo oscuro claro, incluso después de cerrar el navegador.
+- ### ***State Management***
+   - ***Preference Persistence***: Implement the use of `localStorage` to maintain the user's preference for light dark mode, even after closing the browser.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## ✍️ Autores 
+## ✍️ Authors 
 
-- **[Joaquín Casasola](https://github.com/tu-usuario)** - Desarrollador FullStack / Frontend
+- ***[Joaquín Casasola](https://github.com/tu-usuario)*** - FullStack / Frontend Developer
